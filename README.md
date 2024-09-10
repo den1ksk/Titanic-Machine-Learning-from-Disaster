@@ -40,7 +40,7 @@ This project uses machine learning to predict passenger survival. The following 
      
 ### Results
 
-The developed model achieved a Kaggle score of **0.78708**, placing it in the **top 20%** of the leaderboard.
+The developed model achieved a Kaggle score of **0.78708**, placing it in the **top 15%** of the leaderboard.
 
 ### Files
 
